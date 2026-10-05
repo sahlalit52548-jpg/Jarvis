@@ -1,0 +1,2 @@
+
+cursor.execute(query)
